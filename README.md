@@ -1,10 +1,8 @@
-## Bem-vindo(a) 😁
-# Sou Lucas Costa estudante de Sistemas de Informação e futuramente Desenvolvedor Web! 
-
+<h2>Oi, Bem-vindo(a) 😁 <br> Sou Lucas Costa, estudante de Sistemas de Informação e futuramente Desenvolvedor Web!</h2>
  <div>
    <a href="https://github.com/lucascosta9349">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascosta9349&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascosta9349&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascosta9349&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascosta9349&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
 <div style="display: inline_block"><br>
