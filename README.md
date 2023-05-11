@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao meu perfil lucascosta9349 😁
+## Bem-vindo(a) 😁
+##Sou Lucas Costa estudante de Sistemas de Informação e futuramente Desenvolvedor Web! 
 
  <div>
    <a href="https://github.com/lucascosta9349">
