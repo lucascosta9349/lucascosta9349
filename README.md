@@ -1,5 +1,5 @@
 ## Bem-vindo(a) 😁
-##Sou Lucas Costa estudante de Sistemas de Informação e futuramente Desenvolvedor Web! 
+# Sou Lucas Costa estudante de Sistemas de Informação e futuramente Desenvolvedor Web! 
 
  <div>
    <a href="https://github.com/lucascosta9349">
