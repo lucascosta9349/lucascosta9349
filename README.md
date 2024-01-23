@@ -1,4 +1,4 @@
-<h2>Oi, Bem-vindo(a) 😁 <br> Sou Lucas Costa, estudante de Sistemas de Informação e futuramente Desenvolvedor Web!</h2>
+<h2>Oi, Bem-vindo(a) 😁 <br> Sou Lucas Costa, estudante de Sistemas de Informação e Desenvolvedor Web!</h2>
  <div>
    <a href="https://github.com/lucascosta9349">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascosta9349&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
