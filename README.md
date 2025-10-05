@@ -1,4 +1,4 @@
-<h2>Oi, Bem-vindo(a) 😁 <br> Sou Lucas Costa, estudante de Sistemas de Informação!</h2>
+<h2>Oi, Bem-vindo(a) 😁 <br> Sou Lucas Costa, desenvolvedor!</h2>
  <div>
   <a href="https://github-readme-stats.vercel.app/api?username=lucascosta9349"> </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascosta9349&show_icons=true&theme=radical"/> </div>
